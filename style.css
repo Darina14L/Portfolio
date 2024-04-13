@@ -1,0 +1,27 @@
+body{
+    background-color: #E7EAEF;
+    color: #217074;
+    font-family: "Lora variant0", Tofu;
+}
+
+.alls{
+font-size: 50px;
+font-style: normal;
+font-family: serif;
+margin: 150px;
+align-items: center;
+text-align: center;  
+}
+
+a{
+    font-size: 30px;
+    font-style: normal;
+    font-family: serif;
+    color: #1e311b;
+    text-decoration: none;
+    background-color: #a9c3ba;
+    padding: 15px 20px;
+    border-radius: 7px;
+    box-shadow: 5px 5px 9px 0px #37745B;
+    margin: 20px;
+}
