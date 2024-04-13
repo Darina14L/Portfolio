@@ -1,16 +1,40 @@
 body{
+    margin: 0;
     background-color: #E7EAEF;
     color: #217074;
     font-family: "Lora variant0", Tofu;
 }
 
+.hero{
+    background-color: #E7EAEF;
+    color: #217074;
+    height: 100vh;
+    display: flex;
+
+}
+
 .alls{
-font-size: 50px;
-font-style: normal;
-font-family: serif;
-margin: 150px;
-align-items: center;
-text-align: center;  
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+    height: 100vh;
+    border: solid;
+}
+
+h1{
+    margin: 0;
+    font-size: 100px;
+}
+
+h2{
+    margin: 0;
+    font-size: 50px;
+}
+
+h3{
+    margin: 0;
+    font-size: 30px;
 }
 
 a{
