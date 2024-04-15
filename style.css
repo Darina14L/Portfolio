@@ -1,24 +1,52 @@
 body{
     margin: 0;
-    background-color: #E7EAEF;
-    color: #217074;
 }
 
 .hero{
-    background-color: #E7EAEF;
-    color: #217074;
+    background-color: #9CCCE7;
+    color: #000000;
     height: 100vh;
     display: flex;
-
+    text-align: center;
 }
 
 .alls{
     display: flex;
     justify-content: center;
     align-items: center;
+    text-align: center;
     width: 50%;
     height: 100vh;
-    border: solid;
+    border: 0px solid;
+}
+
+.alls1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100vh;
+    border: 0px solid;
+}
+
+.aboutme{
+    background-color: #9CCCE7;
+    color: #000000;
+    height: 100vh;
+    display: flex;
+    text-align: center;
+}
+
+.myproj{
+    background-color: #9CCCE7;
+    color: #000000;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 h1{
@@ -35,3 +63,116 @@ h3{
     margin: 0;
     font-size: 30px;
 }
+
+a{
+    font-size: 30px;
+    color: #000000;
+    text-decoration: none;
+    background-color: #FCF7FF;
+    padding: 15px 20px;
+    border-radius: 50px;
+    margin: 150px;
+}
+
+.myskills{
+    background-color: #9CCCE7;
+    color: #000000;
+    height: 100vh;
+    display: flex;
+}
+
+
+.icon-container {
+    display: flex;
+    flex-direction: column; 
+    align-items: center; 
+}
+
+.icon-container b {
+    margin-bottom: 0px; 
+    margin: 0px;
+    margin-left: 10vh;
+}
+
+b{
+    font-size: 10px;
+    color: #000000;
+    padding: 10px 10px;
+    border-radius: 100%;
+    width: 40px;
+    height: 40px;
+    margin: 150px;
+}
+
+.pointActive {
+    display: inline-block;
+    background-color: #000000;
+    border-radius: 100%;
+    width: 40px;
+    height: 40px;
+   
+}
+  
+.pointPassive {
+    display: inline-block;
+    background-color: #FCF7FF;
+    border-radius: 100%;
+    width: 40px;
+    height: 40px;
+}
+
+c {
+    font-size: 25px;
+    color: #000000;
+    padding: 7px 15px;
+    border-radius: 7px;
+    display: inline-block;
+    margin: 5px;
+}
+
+.buttonup{
+    display: inline-block;
+    text-align: center;
+}
+
+d{
+    font-size: 25px;
+    color: #000000;
+    text-decoration: none;
+    background-color: #9CCCE7;
+    border-radius: 50px;
+    margin: 120px;
+}
+
+.buttonh{
+    background-color: #9CCCE7;
+    color: #000000;
+    text-align: center;
+}
+
+.rectangle {
+    width: 90%;
+    height: 50px; 
+    background-color: #9CCCE7; 
+    border-radius: 25px; 
+    margin: 0 auto; 
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    border: 2px solid #000; 
+}
+
+.back1{
+    background-color: #9CCCE7;
+}
+
+p{
+    margin: 0;
+    font-size: 43px;
+}
+
+img{
+    height: 60%;
+    width: 70%;
+}
+  
