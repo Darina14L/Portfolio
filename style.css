@@ -134,7 +134,6 @@ nav{
 }
 
 
-/*Все про пятно*/
 .piatno{
     z-index: 1;
     position: absolute;
@@ -148,7 +147,7 @@ img{
     z-index: 2;
 }
 
-/*Все про блог*/
+
 #myblog{
     padding: 150px 0;
     color:#FCF7FF;
