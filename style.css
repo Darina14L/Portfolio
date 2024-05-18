@@ -4,13 +4,13 @@ scroll-behavior: smooth;
 
 body{
     margin: 0;
-    background-color: #9CCCE7;
+    background-color: #7CA3B8;
 }
 section{
     min-height: 95vh;
 }
 .hero{
-    background-color: #9CCCE7;
+    background-color: #7CA3B8;
     color: #000000;
     display: flex;
 }
@@ -79,7 +79,7 @@ input{
 
 #aboutme{
     padding: 50px;
-    color:#6D8EA1;
+    color:#7CA3B8;
     background-color: #FCF7FF;
     position: relative;
     z-index: 3;
@@ -91,7 +91,7 @@ input{
 
 #about1{
     padding: 50px;
-    color:#6D8EA1;
+    color:#7CA3B8;
     background-color: #FCF7FF;
     position: relative;
     z-index: 3;
@@ -116,11 +116,13 @@ nav{
     border-radius: 50px;
     width: calc(100% - 100px);
     color: #000000;
-    background-color: #9CCCE7;
+    background-color: #7CA3B8;
     display: flex;
     align-items: center;
     height: 60px;
 }
+
+/*9CCCE7*/
 
 .right{
     position: absolute;
@@ -134,6 +136,7 @@ nav{
 }
 
 
+/*Все про пятно*/
 .piatno{
     z-index: 1;
     position: absolute;
@@ -147,11 +150,11 @@ img{
     z-index: 2;
 }
 
-
+/*Все про блог*/
 #myblog{
     padding: 150px 0;
     color:#FCF7FF;
-    background-color: #9CCCE7;
+    background-color: #7CA3B8;
     position: relative;
     z-index: 3;
 }
@@ -191,14 +194,14 @@ img{
 #myskills{
     padding: 150px 0;
     color:#000000;
-    background-color: #9CCCE7;
+    background-color: #7CA3B8;
     position: relative;
     z-index: 3;
 }
 
 #myprojects{
     padding: 150px 0;
-    color:#6D8EA1;
+    color:#7CA3B8;
     background-color: #FCF7FF;
     position: relative;
     z-index: 3;
@@ -230,4 +233,3 @@ img{
     width: 40px;
     height: 40px;
 }
-  
